@@ -8,5 +8,5 @@ It's really hard to practice SQL by yourself, because sometimes the querys you t
 
 ## SQL-practice-2
 ### Seattle weather
-For this practice, I use the following repo, more specifically the Seattle weather folder, which contains several interesting queries. The data also comes from Kaggle, https://www.kaggle.com/datasets/rtatman/did-it-rain-in-seattle-19482017.
+For this practice, I use the following repo, https://github.com/kiwidamien/SQL_practice, more specifically the Seattle weather folder, which contains several interesting queries. The data also comes from Kaggle, https://www.kaggle.com/datasets/rtatman/did-it-rain-in-seattle-19482017.
 
