@@ -12,4 +12,4 @@ For this practice, I use the following repo, https://github.com/kiwidamien/SQL_p
 
 ## SQL-practice-3
 ### Complex queries
-In this case, I used another post from the same blog that I used previously for the SQL-practice-1, more specifically this queries, https://techtfq.com/blog/learn-how-to-write-sql-queries-practice-complex-sql-queries.
+In this case, I used another post from the same blog that I used previously for the SQL-practice-1, more precisely this queries, https://techtfq.com/blog/learn-how-to-write-sql-queries-practice-complex-sql-queries.
