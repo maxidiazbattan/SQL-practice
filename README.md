@@ -10,3 +10,6 @@ It's really hard to practice SQL by yourself, because sometimes the querys you t
 ### Seattle weather
 For this practice, I use the following repo, https://github.com/kiwidamien/SQL_practice, more specifically the Seattle weather folder, which contains several interesting queries. The data also comes from Kaggle, https://www.kaggle.com/datasets/rtatman/did-it-rain-in-seattle-19482017.
 
+## SQL-practice-3
+### Complex queries
+In this case, I used another post from the same blog that I used previously for the SQL-practice-1, more specifically this queries, https://techtfq.com/blog/learn-how-to-write-sql-queries-practice-complex-sql-queries.
